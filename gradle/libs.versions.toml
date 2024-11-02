@@ -34,8 +34,8 @@ androidx-navigation-ui = { module = "androidx.navigation:navigation-ui-ktx", ver
 dagger-hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
 dagger-hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hilt" }
 
-androidx-test-runner = "androidx.test:runner:1.5.2"
-androidx-test-junit = "androidx.test.ext:junit:1.1.5"
+androidx-test-runner = "androidx.test:runner:1.6.2"
+androidx-test-junit = "androidx.test.ext:junit:1.2.1"
 
 material = { module = "com.google.android.material:material", version.ref = "material" }
 flexbox = "com.google.android.flexbox:flexbox:3.0.0"
